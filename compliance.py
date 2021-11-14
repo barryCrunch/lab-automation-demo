@@ -2,7 +2,7 @@ from napalm import get_network_driver
 from colors import bcolors
 from os.path import exists
 from os import system, name
-import pprint
+import json
 
 
 def clear():

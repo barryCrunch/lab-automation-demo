@@ -17,7 +17,7 @@
       router_id: 1.1.1.1
       peers:
         _mode: strict
-        10.0.0.2:
+        10.0.0.1:
           is_enabled: true
           is_up: true
         192.168.0.2:
